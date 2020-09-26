@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "xa0XDfdLYdkgg1pIm5Grc0svjynONiJXYwhJcGlpEwLX8EoyIW2nOUMSGwUkEy3AC/vVv1YxAFcUAhxdrEhWHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\lesson3\\lesson3Tests4\\lesson3Tests4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoftvisualstudioqualitytoolsunittestframework\\1.0.0\\microsoftvisualstudioqualitytoolsunittestframework.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“.NETCoreApp,Version=v3.1”还原包“MicrosoftVisualStudioQualityToolsUnitTestFramework 1.0.0”。此包可能与项目不完全兼容。",
+      "libraryId": "MicrosoftVisualStudioQualityToolsUnitTestFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

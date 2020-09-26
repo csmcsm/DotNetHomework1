@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\bin\Debug\netcoreapp3.1\lesson3.exe
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\bin\Debug\netcoreapp3.1\lesson3.dll
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\bin\Debug\netcoreapp3.1\lesson3.pdb
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\obj\Debug\netcoreapp3.1\lesson3Tests4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\obj\Debug\netcoreapp3.1\lesson3Tests4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\obj\Debug\netcoreapp3.1\lesson3Tests4.csproj.CopyComplete
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\bin\Debug\netcoreapp3.1\lesson3Tests4.deps.json
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\bin\Debug\netcoreapp3.1\lesson3Tests4.dll
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\bin\Debug\netcoreapp3.1\lesson3Tests4.pdb
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\obj\Debug\netcoreapp3.1\lesson3Tests4.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\obj\Debug\netcoreapp3.1\lesson3Tests4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\obj\Debug\netcoreapp3.1\lesson3Tests4.dll
+C:\Users\Administrator\Desktop\lesson3\lesson3Tests4\obj\Debug\netcoreapp3.1\lesson3Tests4.pdb

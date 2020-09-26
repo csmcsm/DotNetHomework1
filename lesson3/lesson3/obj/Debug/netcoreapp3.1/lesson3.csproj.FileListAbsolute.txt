@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\lesson3\lesson3\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\lesson3\lesson3\obj\Debug\netcoreapp3.1\lesson3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\lesson3\lesson3\obj\Debug\netcoreapp3.1\lesson3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\lesson3\lesson3\bin\Debug\netcoreapp3.1\lesson3.exe
+C:\Users\Administrator\Desktop\lesson3\lesson3\bin\Debug\netcoreapp3.1\lesson3.deps.json
+C:\Users\Administrator\Desktop\lesson3\lesson3\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.json
+C:\Users\Administrator\Desktop\lesson3\lesson3\bin\Debug\netcoreapp3.1\lesson3.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\lesson3\lesson3\bin\Debug\netcoreapp3.1\lesson3.dll
+C:\Users\Administrator\Desktop\lesson3\lesson3\bin\Debug\netcoreapp3.1\lesson3.pdb
+C:\Users\Administrator\Desktop\lesson3\lesson3\obj\Debug\netcoreapp3.1\lesson3.dll
+C:\Users\Administrator\Desktop\lesson3\lesson3\obj\Debug\netcoreapp3.1\lesson3.pdb
+C:\Users\Administrator\Desktop\lesson3\lesson3\obj\Debug\netcoreapp3.1\lesson3.genruntimeconfig.cache
