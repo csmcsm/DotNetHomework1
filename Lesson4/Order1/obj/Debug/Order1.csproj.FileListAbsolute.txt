@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Lesson4\Order1\bin\Debug\Order1.exe.config
+C:\Users\Administrator\source\repos\Lesson4\Order1\bin\Debug\Order1.exe
+C:\Users\Administrator\source\repos\Lesson4\Order1\bin\Debug\Order1.pdb
+C:\Users\Administrator\source\repos\Lesson4\Order1\obj\Debug\Order1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Lesson4\Order1\obj\Debug\Order1.Form1.resources
+C:\Users\Administrator\source\repos\Lesson4\Order1\obj\Debug\Order1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lesson4\Order1\obj\Debug\Order1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lesson4\Order1\obj\Debug\Order1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lesson4\Order1\obj\Debug\Order1.exe
+C:\Users\Administrator\source\repos\Lesson4\Order1\obj\Debug\Order1.pdb
+C:\Users\Administrator\source\repos\Lesson4\Order1\obj\Debug\Order1.Form2.resources
